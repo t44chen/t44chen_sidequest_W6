@@ -35,11 +35,11 @@ a.Post-Playtest:
 
 ## Assets
 
-Process & Decision Documentation
-running.mp3 (From Pixabay)
-jumping.mp3 (From Pixabay)
-falling.mp3 (From Pixabay)
-treasure.png (From Pngtree)
+- Process & Decision Documentation
+- running.mp3 (From Pixabay)
+- jumping.mp3 (From Pixabay)
+- falling.mp3 (From Pixabay)
+- treasure.png (From Pngtree)
 
 ---
 
